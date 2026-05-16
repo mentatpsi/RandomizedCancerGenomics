@@ -32,3 +32,8 @@ The neural network used focuses on a logistic regression activation function, wh
 Naive Bayes employs conditional probabilities and Bayes Theorem to determine class. It is called Naive because it employs the notion of independence to determine class which allows for unique mathematical operations not possible in dependence.
 
 
+### Continuation on May 2026
+
+I implemented Claude Code to determine statistical significance through Permutation Null Model and Fisher Exact Test for co-mutations. Also added Claude analysis leveraging biology research capabilities.
+
+
