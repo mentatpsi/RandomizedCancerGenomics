@@ -1,0 +1,9 @@
+,All hidden genes,All hidden genes,All hidden genes,All hidden genes,Hidden gene not PIK3CA/TP53,Hidden gene not PIK3CA/TP53,Hidden gene not PIK3CA/TP53,Hidden gene not PIK3CA/TP53
+,Hit@3,Hit@10,MRR,n,Hit@3,Hit@10,MRR,n
+Model,,,,,,,,
+Popularity,0.312,0.484,0.266,1388.0,0.108,0.331,0.102,1071.0
+Item-kNN (cosine),0.228,0.377,0.217,1388.0,0.102,0.249,0.107,1071.0
+"User-kNN (Jaccard, k=50)",0.3,0.445,0.27,1388.0,0.121,0.287,0.114,1071.0
+Personalized PageRank,0.308,0.474,0.275,1388.0,0.106,0.318,0.103,1071.0
+NMF (12 programs),0.086,0.19,0.084,1388.0,0.092,0.173,0.086,1071.0
+Null-adjusted co-mutation,0.311,0.481,0.28,1388.0,0.12,0.33,0.118,1071.0
